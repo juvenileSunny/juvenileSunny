@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm MJM Sunny</h1>
 <h3 align="center">A passionate learner and enthusaist to get things DONE!!!</h3>
-
+<img align="right alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzg3ZWQzMjc2OGZmNTIzMzAxMGMyMGU1YWZmYjhmNjg3ZjM4ODNmZiZjdD1n/l0Ex73AUevNVVoPw4/giphy.gif>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juvenilesunny&label=Profile%20views&color=0e75b6&style=flat" alt="juvenilesunny" /> </p>
 
 - 🌱 I’m currently learning **VR, Computer Network, Unity, Machine Learning, Blockchain**

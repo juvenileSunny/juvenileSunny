@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **VR, Computer Network, Unity, Machine Learning, Blockchain**
 
-- 📄 Know about my experiences [https://jahedsunny.wixsite.com/jmsunny](https://jahedsunny.wixsite.com/jmsunny)
+- 📄 Know about my experiences [https://juvenilesunny.github.io/](https://juvenilesunny.github.io/)
 
 - ⚡ Fun fact **Need Specs to watch :3**
 

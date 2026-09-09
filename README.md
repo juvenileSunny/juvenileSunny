@@ -149,7 +149,7 @@ Selected research has appeared at venues including:
 
 ### Software & Backend
 <p>
-<img src="https://skillicons.dev/icons?i=linux,docker,git,github,mysql,elasticsearch" />
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,mysql,elasticsearch,ai,ps,autocad" />
 </p>
 
 `REST APIs` • `Data Pipelines` • `Distributed Systems` • `Persistent Storage` • `Real-Time Telemetry`

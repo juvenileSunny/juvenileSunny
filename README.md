@@ -179,9 +179,7 @@ Selected research has appeared at venues including:
 
 ## 📌 Current Focus
 
-<p align="center">
-  <img src="./assets/current-focus.svg" width="720" alt="Current Focus">
-</p>
+![JavaScript 62%](https://readmeforge.natrajx.in/api/progress-bar?label=JavaScript&value=62&metal=gold&style=metallic&width=450&theme=dark)
 
 I'm currently strengthening my skills in **system design, networking, backend engineering, C++, distributed systems, and production AI systems** while building portfolio projects around them.
 

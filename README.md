@@ -179,27 +179,47 @@ Selected research has appeared at venues including:
 
 ## 📌 Current Focus
 
+<p align="center">
+  <img src="./assets/current-focus.svg" width="720" alt="Current Focus">
+</p>
 
-Software Engineering     ███████████████████░
-Backend Systems          ██████████████████░░
-AI Systems               █████████████████░░░
-Unity / Multiplayer      █████████████████░░░
-Scientific Computing     ████████████████░░░░
-XR / Immersive Systems   ████████████████░░░░
+I'm currently strengthening my skills in **system design, networking, backend engineering, C++, distributed systems, and production AI systems** while building portfolio projects around them.
 
-I'm currently strengthening my skills in system design, networking, backend engineering, C++, distributed systems, and production AI systems while building portfolio projects around them.
+---
 
-📊 GitHub
+## 📊 GitHub Activity
 
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=juvenilesunny&show_icons=true&hide_border=true&count_private=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juvenilesunny&layout=compact&hide_border=true" /> </p>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=juvenilesunny&show_icons=true&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juvenilesunny&layout=compact&hide_border=true" />
+</p>
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=juvenilesunny&hide_border=true" /> </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juvenilesunny&hide_border=true" />
+</p>
 
-🤝 Connect
+---
 
-<p align="center"> <a href="https://www.linkedin.com/in/jahed-murad-sunny/"> <img src="https://img.shields.io/badge/LinkedIn-MJM%20Sunny-0077B5?style=flat-square&logo=linkedin&logoColor=white"/> </a> <a href="https://www.kaggle.com/jahedsunny"> <img src="https://img.shields.io/badge/Kaggle-jahedsunny-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/> </a> <a href="https://juvenilesunny.github.io/"> <img src="https://img.shields.io/badge/Portfolio-juvenilesunny.github.io-black?style=flat-square&logo=github"/> </a> </p>
+## 🤝 Connect
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=juvenilesunny&label=Profile%20Views&color=0e75b6&style=flat" /> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jahed-murad-sunny/">
+    <img src="https://img.shields.io/badge/LinkedIn-MJM%20Sunny-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.kaggle.com/jahedsunny">
+    <img src="https://img.shields.io/badge/Kaggle-jahedsunny-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
+  <a href="https://juvenilesunny.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-<p align="center"> <b>Building systems. Breaking things. Understanding why. Building them better.</b> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=juvenilesunny&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+  <b>Building systems. Breaking things. Understanding why. Building them better.</b>
+</p>
+
 ---

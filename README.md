@@ -179,29 +179,47 @@ Selected research has appeared at venues including:
 
 ## 📌 Current Focus
 
-#### **Software Engineering**
-![Software Engineering](https://readmeforge.natrajx.in/api/progress-bar?label=%20&value=95&metal=black&style=glass&width=450&theme=dark)
+<table>
+<tr>
+<td width="190"><b>Software Engineering</b></td>
+<td><img src="https://readmeforge.natrajx.in/api/progress-bar?label=%20&value=95&metal=black&style=glass&width=420&theme=dark" /></td>
+</tr>
 
-#### **Backend Systems**
-![Backend Systems](https://readmeforge.natrajx.in/api/progress-bar?label=%20&value=90&metal=black&style=glass&width=450&theme=dark)
+<tr>
+<td><b>Backend Systems</b></td>
+<td><img src="https://readmeforge.natrajx.in/api/progress-bar?label=%20&value=90&metal=black&style=glass&width=420&theme=dark" /></td>
+</tr>
 
-#### **AI Systems**
-![AI Systems](https://readmeforge.natrajx.in/api/progress-bar?label=%20&value=88&metal=black&style=glass&width=450&theme=dark)
+<tr>
+<td><b>AI Systems</b></td>
+<td><img src="https://readmeforge.natrajx.in/api/progress-bar?label=%20&value=88&metal=black&style=glass&width=420&theme=dark" /></td>
+</tr>
 
-#### **Unity / Multiplayer**
-![Unity Multiplayer](https://readmeforge.natrajx.in/api/progress-bar?label=%20&value=90&metal=black&style=glass&width=450&theme=dark)
+<tr>
+<td><b>Unity / Multiplayer</b></td>
+<td><img src="https://readmeforge.natrajx.in/api/progress-bar?label=%20&value=90&metal=black&style=glass&width=420&theme=dark" /></td>
+</tr>
 
-#### **Scientific Computing**
-![Scientific Computing](https://readmeforge.natrajx.in/api/progress-bar?label=%20&value=95&metal=black&style=glass&width=450&theme=dark)
+<tr>
+<td><b>Scientific Computing</b></td>
+<td><img src="https://readmeforge.natrajx.in/api/progress-bar?label=%20&value=95&metal=black&style=glass&width=420&theme=dark" /></td>
+</tr>
 
-#### **XR / Immersive Systems**
-![XR Immersive Systems](https://readmeforge.natrajx.in/api/progress-bar?label=%20&value=85&metal=black&style=glass&width=450&theme=dark)
+<tr>
+<td><b>XR / Immersive Systems</b></td>
+<td><img src="https://readmeforge.natrajx.in/api/progress-bar?label=%20&value=85&metal=black&style=glass&width=420&theme=dark" /></td>
+</tr>
 
-#### **System Design**
-![System Design](https://readmeforge.natrajx.in/api/progress-bar?label=%20&value=80&metal=black&style=glass&width=450&theme=dark)
+<tr>
+<td><b>System Design</b></td>
+<td><img src="https://readmeforge.natrajx.in/api/progress-bar?label=%20&value=80&metal=black&style=glass&width=420&theme=dark" /></td>
+</tr>
 
-#### **Docker / Containers**
-![Docker Containers](https://readmeforge.natrajx.in/api/progress-bar?label=%20&value=82&metal=black&style=glass&width=450&theme=dark)
+<tr>
+<td><b>Docker / Containers</b></td>
+<td><img src="https://readmeforge.natrajx.in/api/progress-bar?label=%20&value=82&metal=black&style=glass&width=420&theme=dark" /></td>
+</tr>
+</table>
 
 I'm currently strengthening my skills in **system design, networking, backend engineering, C++, distributed systems, and production AI systems** while building portfolio projects around them.
 

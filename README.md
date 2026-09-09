@@ -144,7 +144,7 @@ Selected research has appeared at venues including:
 
 ### Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,cs,sql,bash" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,cs,mysql,bash" />
 </p>
 
 ### Software & Backend

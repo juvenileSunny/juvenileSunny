@@ -178,8 +178,21 @@ Selected research has appeared at venues including:
 ---
 
 ## 📌 Current Focus
+![Software Engineering](https://readmeforge.natrajx.in/api/progress-bar?label=Software%20Engineering&value=95&metal=material-blue&style=metallic&width=450&theme=dark)
 
-![JavaScript 62%](https://readmeforge.natrajx.in/api/progress-bar?label=JavaScript&value=62&metal=gold&style=metallic&width=450&theme=dark)
+![Backend Systems](https://readmeforge.natrajx.in/api/progress-bar?label=Backend%20Systems&value=90&metal=material-blue&style=metallic&width=450&theme=dark)
+
+![AI Systems](https://readmeforge.natrajx.in/api/progress-bar?label=AI%20Systems&value=88&metal=material-blue&style=metallic&width=450&theme=dark)
+
+![Unity / Multiplayer](https://readmeforge.natrajx.in/api/progress-bar?label=Unity%20%2F%20Multiplayer&value=88&metal=material-blue&style=metallic&width=450&theme=dark)
+
+![Scientific Computing](https://readmeforge.natrajx.in/api/progress-bar?label=Scientific%20Computing&value=85&metal=material-blue&style=metallic&width=450&theme=dark)
+
+![XR / Immersive Systems](https://readmeforge.natrajx.in/api/progress-bar?label=XR%20%2F%20Immersive%20Systems&value=85&metal=material-blue&style=metallic&width=450&theme=dark)
+
+![System Design](https://readmeforge.natrajx.in/api/progress-bar?label=System%20Design&value=80&metal=material-blue&style=metallic&width=450&theme=dark)
+
+![Docker / Containers](https://readmeforge.natrajx.in/api/progress-bar?label=Docker%20%2F%20Containers&value=82&metal=material-blue&style=metallic&width=450&theme=dark)
 
 I'm currently strengthening my skills in **system design, networking, backend engineering, C++, distributed systems, and production AI systems** while building portfolio projects around them.
 

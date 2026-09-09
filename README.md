@@ -100,24 +100,6 @@ This work has contributed to research presented through venues including **IEEE 
 
 ---
 
-### 🛰️ Scientific Spectrograph Data Analysis
-**Python • NumPy • Pandas • SciPy • Signal Processing • Statistics**
-
-Working with ultraviolet spectrograph data from a sounding-rocket mission investigating atmospheric nitric oxide using stellar occultation.
-
-My analysis includes:
-
-- RAW detector image processing
-- Dark-current and thermal characterization
-- Spectral registration
-- Wavelength calibration
-- Signal/background separation
-- Atmospheric transmission analysis
-- Statistical analysis and visualization
-- Scientific data pipeline development
-
----
-
 ### 🖥️ Home Lab & Distributed Systems Playground
 **Docker • Linux • Networking • C++ • Python**
 
@@ -197,7 +179,7 @@ Selected research has appeared at venues including:
 
 ## 📌 Current Focus
 
-```text
+
 Software Engineering     ███████████████████░
 Backend Systems          ██████████████████░░
 AI Systems               █████████████████░░░
@@ -219,4 +201,5 @@ I'm currently strengthening my skills in system design, networking, backend engi
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=juvenilesunny&label=Profile%20Views&color=0e75b6&style=flat" /> </p>
 
-<p align="center"> <b>Building systems. Breaking things. Understanding why. Building them better.</b> </p>```
+<p align="center"> <b>Building systems. Breaking things. Understanding why. Building them better.</b> </p>
+---

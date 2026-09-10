@@ -32,19 +32,14 @@ I build <b>software, AI, real-time data, multiplayer, XR, and scientific computi
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science Ph.D. student and Graduate Researcher at the University of Arkansas at Little Rock**.
+I'm a **Computer Science Ph.D. student and Graduate Researcher at the University of Arkansas at Little Rock** building systems across software engineering, AI, immersive computing, and data analysis.
 
-I build complete systems spanning:
+![Software Engineering](https://img.shields.io/badge/Software%20Engineering-0A66C2?style=flat-square)
+![AI Systems](https://img.shields.io/badge/AI%20Systems-6E40C9?style=flat-square)
+![XR](https://img.shields.io/badge/XR-00A6A6?style=flat-square)
+![Scientific Computing](https://img.shields.io/badge/Scientific%20Computing-2E7D32?style=flat-square)
 
-- Backend & distributed applications
-- AI-enabled interactive systems
-- Multiplayer networking
-- XR telemetry & analytics
-- Scientific data processing
-
-I enjoy taking projects from:
-
-**architecture → implementation → deployment → data → analysis**
+**Architecture → Implementation → Deployment → Data → Analysis**
 
 </td>
 

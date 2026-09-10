@@ -47,40 +47,52 @@ I'm a **Computer Science Ph.D. student and Graduate Researcher at the University
 
 ## 📌 Current Focus
 
+## 📌 Current Focus
+
 <table>
+
 <tr>
-<td><b>Software Engineering</b></td>
-<td><img src="https://readmeforge.natrajx.in/api/progress-bar?label=%20&value=95&metal=black&style=glass&width=260&theme=dark"/></td>
+<td width="180"><b>Software Engineering</b></td>
+<td>
+<img src="https://readmeforge.natrajx.in/api/progress-bar?label=%20&value=95&metal=material-blue&style=glass&width=350&theme=dark"/>
+</td>
 </tr>
 
 <tr>
 <td><b>Backend Systems</b></td>
-<td><img src="https://readmeforge.natrajx.in/api/progress-bar?label=%20&value=90&metal=black&style=glass&width=260&theme=dark"/></td>
+<td>
+<img src="https://readmeforge.natrajx.in/api/progress-bar?label=%20&value=90&metal=material-blue&style=glass&width=350&theme=dark"/>
+</td>
 </tr>
 
 <tr>
 <td><b>AI Systems</b></td>
-<td><img src="https://readmeforge.natrajx.in/api/progress-bar?label=%20&value=88&metal=black&style=glass&width=260&theme=dark"/></td>
+<td>
+<img src="https://readmeforge.natrajx.in/api/progress-bar?label=%20&value=88&metal=black&style=glass&width=350&theme=dark"/>
+</td>
 </tr>
 
 <tr>
 <td><b>Unity / Multiplayer</b></td>
-<td><img src="https://readmeforge.natrajx.in/api/progress-bar?label=%20&value=90&metal=black&style=glass&width=260&theme=dark"/></td>
+<td>
+<img src="https://readmeforge.natrajx.in/api/progress-bar?label=%20&value=90&metal=material-blue&style=glass&width=350&theme=dark"/>
+</td>
 </tr>
 
 <tr>
 <td><b>Scientific Computing</b></td>
-<td><img src="https://readmeforge.natrajx.in/api/progress-bar?label=%20&value=95&metal=black&style=glass&width=260&theme=dark"/></td>
+<td>
+<img src="https://readmeforge.natrajx.in/api/progress-bar?label=%20&value=95&metal=black&style=glass&width=350&theme=dark"/>
+</td>
 </tr>
 
 <tr>
 <td><b>XR Systems</b></td>
-<td><img src="https://readmeforge.natrajx.in/api/progress-bar?label=%20&value=90&metal=black&style=glass&width=260&theme=dark"/></td>
-</tr>
-</table>
-
+<td>
+<img src="https://readmeforge.natrajx.in/api/progress-bar?label=%20&value=90&metal=material-blue&style=glass&width=350&theme=dark"/>
 </td>
 </tr>
+
 </table>
 
 ---

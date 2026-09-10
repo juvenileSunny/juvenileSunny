@@ -47,8 +47,6 @@ I'm a **Computer Science Ph.D. student and Graduate Researcher at the University
 
 ## 📌 Current Focus
 
-## 📌 Current Focus
-
 <table>
 
 <tr>
@@ -103,25 +101,25 @@ I'm a **Computer Science Ph.D. student and Graduate Researcher at the University
 <tr>
 <td width="50%" valign="top">
 
-### 🎮 Online Multiplayer Sequence
+### 🎮 Sequence Multiplayer
 
-**Unity • C# • Networking • Persistence**
+![Unity](https://img.shields.io/badge/Unity-181717?style=flat-square&logo=unity)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-0A66C2?style=flat-square)
 
-Building a client-server multiplayer game with authoritative game logic, synchronized players, seat management, sequence validation, persistent data, and a home-hosted server architecture.
+Authoritative multiplayer architecture with synchronized game state, player management, persistence, and home-hosted server development.
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🤖 Voice-Interactive AI Agent
+### 🤖 Voice AI Agent
 
-**Unity • Whisper • Ollama • Local LLM • Kokoro**
+![AI](https://img.shields.io/badge/AI-6E40C9?style=flat-square)
+![Whisper](https://img.shields.io/badge/Whisper-00A6A6?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-181717?style=flat-square)
 
-Built an end-to-end conversational AI pipeline:
-
-`Speech → STT → Context-Adapted LLM → TTS → Animated Avatar`
-
-Integrated the agent into a multi-user immersive application with synchronized speech and avatar behavior.
+Real-time voice pipeline connecting speech recognition, a context-adapted local LLM, TTS, and an animated Unity avatar.
 
 </td>
 </tr>
@@ -129,23 +127,25 @@ Integrated the agent into a multi-user immersive application with synchronized s
 <tr>
 <td width="50%" valign="top">
 
-### 📡 DataEcho / XR Telemetry
+### 📡 DataEcho
 
-**Unity • Elasticsearch • ELK • Python • OpenXR**
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![XR](https://img.shields.io/badge/XR-00A6A6?style=flat-square)
 
-Developed systems for high-frequency XR telemetry capture, persistent storage, querying, replay, visualization, and behavioral analysis.
-
-Handles gaze, head/controller motion, interaction events, and experimental state.
+High-frequency XR telemetry capture, persistent storage, replay, visualization, and behavioral analytics.
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🛰 Scientific Data Analysis
+### 🛰 Spectrograph Analysis
 
-**Python • NumPy • Pandas • SciPy**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![Scientific Computing](https://img.shields.io/badge/Scientific%20Computing-2E7D32?style=flat-square)
 
-Developing analysis pipelines for UV sounding-rocket spectrograph data including detector processing, calibration, spectral registration, signal extraction, and atmospheric analysis.
+Detector processing, wavelength calibration, spectral registration, signal extraction, and atmospheric analysis.
 
 </td>
 </tr>

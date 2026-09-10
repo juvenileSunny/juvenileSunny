@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm MJM Sunny</h1>
 
 <h3 align="center">
-Ph.D. Researcher • Software & AI Systems Developer • XR Engineer
+Software Engineer • AI & XR Systems Developer • Ph.D. Researcher
 </h3>
 
 <p align="center">
-I build interactive systems that combine <b>software engineering, AI, real-time data, XR, and scientific computing</b>.
+I build <b>software, AI, real-time data, multiplayer, XR, and scientific computing systems</b>.
 </p>
 
 <p align="center">
 <a href="https://juvenilesunny.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-Visit-181717?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/jahed-murad-sunny/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -22,230 +22,215 @@ I build interactive systems that combine <b>software engineering, AI, real-time 
 
 ---
 
+<table>
+<tr>
+<td width="55%" valign="top">
+
 ## 👨‍💻 About Me
 
-I'm a **Computer Science Ph.D. student and Graduate Researcher at the University of Arkansas at Little Rock**, working at the intersection of software systems, immersive computing, AI, and behavioral data analysis.
+I'm a **Computer Science Ph.D. student and Graduate Researcher at the University of Arkansas at Little Rock**.
 
-My work ranges from building **real-time XR telemetry and analytics systems** to developing **voice-interactive AI agents**, multiplayer applications, scientific data-processing pipelines, and experimental research platforms.
+I build complete systems spanning:
 
-I enjoy taking an idea all the way from:
+- Backend & distributed applications
+- AI-enabled interactive systems
+- Multiplayer networking
+- XR telemetry & analytics
+- Scientific data processing
 
-**architecture → implementation → deployment → data collection → analysis**
+I enjoy taking projects from:
 
-Currently, I'm especially interested in:
+**architecture → implementation → deployment → data → analysis**
 
-- Backend and distributed systems
-- AI-enabled applications
-- Real-time telemetry and data infrastructure
-- Multiplayer and networked applications
-- XR / Unity development
-- Scientific and behavioral data analysis
-- System design and scalable software architecture
+</td>
 
----
-
-## 🚀 What I'm Building
-
-### 🎮 Online Multiplayer Sequence Game
-**Unity • C# • Networking • Server Architecture • Persistent Storage**
-
-Building a complete online multiplayer version of the board game **Sequence** as a software-engineering and system-design portfolio project.
-
-Current work includes:
-
-- Authoritative multiplayer game logic
-- Player and seat management
-- Sequence detection and overlap rules
-- Persistent player/session data
-- Home-hosted server architecture
-- Network synchronization
-- Future AI-assisted gameplay features
-
-The goal is to evolve this into a production-style distributed application while implementing system-design concepts hands-on.
-
----
-
-### 🤖 Voice-Interactive Embodied AI Agent
-**Unity • Whisper • Ollama • Local LLM • Kokoro TTS**
-
-Designed an end-to-end conversational AI system for immersive applications.
-
-Pipeline:
-
-`Speech → Whisper STT → Context-Specialized LLM → Response Generation → Kokoro TTS → Animated Unity Avatar`
-
-- Integrated independently hosted AI services into one real-time inference pipeline
-- Adapted the language model to presentation-specific instructional context
-- Connected generated speech with avatar facial and body animation
-- Integrated the agent into a multi-user immersive learning environment
-
----
-
-### 📡 Real-Time XR Telemetry & Analytics
-**Unity • Elasticsearch • Python • ELK Stack • OpenXR**
-
-Developing systems for capturing, storing, replaying, and analyzing high-frequency behavioral telemetry from immersive environments.
-
-Examples include:
-
-- Eye-tracking and gaze telemetry
-- Controller and head-motion data
-- Experimental event logging
-- Session replay
-- Behavioral visualization
-- Performance analytics
-- Elasticsearch-backed telemetry infrastructure
-
-This work has contributed to research presented through venues including **IEEE VR and AHFE**.
-
----
-
-### 🖥️ Home Lab & Distributed Systems Playground
-**Docker • Linux • Networking • C++ • Python**
-
-Building a multi-machine home lab to turn system-design concepts into working infrastructure.
-
-Planned architecture includes:
-
-- Multiple physical machines
-- Containerized services
-- Backend APIs
-- Databases and persistent storage
-- C++ services
-- Observability and telemetry
-- Load balancing and caching
-- AI services
-- Unity-based clients
-
----
-
-## 🔬 Research
-
-My research focuses on **human performance, immersive systems, behavioral analytics, and intelligent interactive environments**.
-
-Topics I've worked on include:
-
-- VR precision and motor-performance analysis
-- Eye tracking and gaze analytics
-- Asymmetric VR–desktop collaboration
-- Human–AI interaction
-- Embodied conversational agents
-- Spatial decision-making
-- Real-time behavioral telemetry
-- Multimodal experimental systems
-
-Selected research has appeared at venues including:
-
-**IEEE VR • IEEE VR Workshops • AHFE**
-
----
-
-## 🛠️ Technical Stack
-
-### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,cs,js,mysql,arduino,bash" />
-</p>
-
-### Software & Backend
-<p>
-<img src="https://skillicons.dev/icons?i=linux,docker,git,github,mysql,elasticsearch,ai,ps,autocad" />
-</p>
-
-`REST APIs` • `Data Pipelines` • `Distributed Systems` • `Persistent Storage` • `Real-Time Telemetry`
-
-### AI / Machine Learning
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
-</p>
-
-`Whisper` • `Ollama` • `Local LLMs` • `Kokoro TTS` • `NumPy` • `Pandas` • `SciPy`
-
-### XR / Application Development
-<p>
-<img src="https://skillicons.dev/icons?i=unity,blender" />
-</p>
-
-`OpenXR` • `Meta Quest` • `Multiplayer Systems` • `Interactive AI`
-
-### Cloud & Infrastructure
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" />
-</p>
-
-`AWS EC2` • `AWS S3` • `Containerization` • `Networking` • `Home Lab Infrastructure`
-
----
+<td width="45%" valign="top">
 
 ## 📌 Current Focus
 
 <table>
 <tr>
-<td width="190"><b>Software Engineering</b></td>
-<td><img src="https://readmeforge.natrajx.in/api/progress-bar?label=%20&value=95&metal=black&style=glass&width=420&theme=dark" /></td>
+<td><b>Software Engineering</b></td>
+<td><img src="https://readmeforge.natrajx.in/api/progress-bar?label=%20&value=95&metal=black&style=glass&width=260&theme=dark"/></td>
 </tr>
 
 <tr>
 <td><b>Backend Systems</b></td>
-<td><img src="https://readmeforge.natrajx.in/api/progress-bar?label=%20&value=90&metal=black&style=glass&width=420&theme=dark" /></td>
+<td><img src="https://readmeforge.natrajx.in/api/progress-bar?label=%20&value=90&metal=black&style=glass&width=260&theme=dark"/></td>
 </tr>
 
 <tr>
 <td><b>AI Systems</b></td>
-<td><img src="https://readmeforge.natrajx.in/api/progress-bar?label=%20&value=88&metal=black&style=glass&width=420&theme=dark" /></td>
+<td><img src="https://readmeforge.natrajx.in/api/progress-bar?label=%20&value=88&metal=black&style=glass&width=260&theme=dark"/></td>
 </tr>
 
 <tr>
 <td><b>Unity / Multiplayer</b></td>
-<td><img src="https://readmeforge.natrajx.in/api/progress-bar?label=%20&value=90&metal=black&style=glass&width=420&theme=dark" /></td>
+<td><img src="https://readmeforge.natrajx.in/api/progress-bar?label=%20&value=90&metal=black&style=glass&width=260&theme=dark"/></td>
 </tr>
 
 <tr>
 <td><b>Scientific Computing</b></td>
-<td><img src="https://readmeforge.natrajx.in/api/progress-bar?label=%20&value=95&metal=black&style=glass&width=420&theme=dark" /></td>
+<td><img src="https://readmeforge.natrajx.in/api/progress-bar?label=%20&value=95&metal=black&style=glass&width=260&theme=dark"/></td>
 </tr>
 
 <tr>
-<td><b>XR / Immersive Systems</b></td>
-<td><img src="https://readmeforge.natrajx.in/api/progress-bar?label=%20&value=85&metal=black&style=glass&width=420&theme=dark" /></td>
-</tr>
-
-<tr>
-<td><b>System Design</b></td>
-<td><img src="https://readmeforge.natrajx.in/api/progress-bar?label=%20&value=80&metal=black&style=glass&width=420&theme=dark" /></td>
-</tr>
-
-<tr>
-<td><b>Docker / Containers</b></td>
-<td><img src="https://readmeforge.natrajx.in/api/progress-bar?label=%20&value=82&metal=black&style=glass&width=420&theme=dark" /></td>
+<td><b>XR Systems</b></td>
+<td><img src="https://readmeforge.natrajx.in/api/progress-bar?label=%20&value=90&metal=black&style=glass&width=260&theme=dark"/></td>
 </tr>
 </table>
 
-I'm currently strengthening my skills in **system design, networking, backend engineering, C++, distributed systems, and production AI systems** while building portfolio projects around them.
+</td>
+</tr>
+</table>
 
 ---
 
+## 🚀 Featured Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎮 Online Multiplayer Sequence
+
+**Unity • C# • Networking • Persistence**
+
+Building a client-server multiplayer game with authoritative game logic, synchronized players, seat management, sequence validation, persistent data, and a home-hosted server architecture.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 Voice-Interactive AI Agent
+
+**Unity • Whisper • Ollama • Local LLM • Kokoro**
+
+Built an end-to-end conversational AI pipeline:
+
+`Speech → STT → Context-Adapted LLM → TTS → Animated Avatar`
+
+Integrated the agent into a multi-user immersive application with synchronized speech and avatar behavior.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📡 DataEcho / XR Telemetry
+
+**Unity • Elasticsearch • ELK • Python • OpenXR**
+
+Developed systems for high-frequency XR telemetry capture, persistent storage, querying, replay, visualization, and behavioral analysis.
+
+Handles gaze, head/controller motion, interaction events, and experimental state.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛰 Scientific Data Analysis
+
+**Python • NumPy • Pandas • SciPy**
+
+Developing analysis pipelines for UV sounding-rocket spectrograph data including detector processing, calibration, spectral registration, signal extraction, and atmospheric analysis.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Technical Stack
+
+<table>
+<tr>
+<td><b>Languages</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,cs,js,bash" />
+
+</td>
+</tr>
+
+<tr>
+<td><b>Backend & Infrastructure</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,mysql,elasticsearch,aws" />
+
+</td>
+</tr>
+
+<tr>
+<td><b>AI & Data</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+
+`Whisper` `Ollama` `Local LLMs` `NumPy` `Pandas` `SciPy`
+
+</td>
+</tr>
+
+<tr>
+<td><b>Interactive Systems</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=unity,blender" />
+
+`OpenXR` `Meta Quest` `Multiplayer Systems` `Eye Tracking`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔬 Research
+
+My research focuses on **immersive systems, behavioral analytics, human–AI interaction, and intelligent interactive environments**.
+
+`VR Motor Performance` • `Eye Tracking` • `Gaze Analytics` • `Asymmetric XR` • `Embodied AI` • `Behavioral Telemetry`
+
+Selected work has appeared at **IEEE VR, IEEE VR Workshops, and AHFE**.
+
+---
+
+## 🖥️ Systems I'm Building
+
+<p align="center">
+
+`Distributed Home Lab` •
+`C++ Backend Services` •
+`Multiplayer Networking` •
+`Containerized Infrastructure` •
+`AI Services` •
+`Scientific Computing Pipelines`
+
+</p>
+
+---
 
 ## 🤝 Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jahed-murad-sunny/">
-    <img src="https://img.shields.io/badge/LinkedIn-MJM%20Sunny-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.kaggle.com/jahedsunny">
-    <img src="https://img.shields.io/badge/Kaggle-jahedsunny-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-  </a>
-  <a href="https://juvenilesunny.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+
+<a href="https://www.linkedin.com/in/jahed-murad-sunny/">
+  <img src="https://img.shields.io/badge/LinkedIn-MJM%20Sunny-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.kaggle.com/jahedsunny">
+  <img src="https://img.shields.io/badge/Kaggle-jahedsunny-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
+<a href="https://juvenilesunny.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=juvenilesunny&label=Profile%20Views&color=0e75b6&style=flat" />
+<b>Building systems. Understanding how they fail. Making them better.</b>
 </p>
-
-<p align="center">
-  <b>Building systems. Breaking things. Understanding why. Building them better.</b>
-</p>
-
----

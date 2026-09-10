@@ -9,15 +9,19 @@ I build <b>software, AI, real-time data, multiplayer, XR, and scientific computi
 </p>
 
 <p align="center">
+
 <a href="https://juvenilesunny.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-181717?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-181717?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
+
 <a href="https://www.linkedin.com/in/jahed-murad-sunny/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="https://github.com/juvenilesunny">
-  <img src="https://img.shields.io/github/followers/juvenilesunny?label=Follow&style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GITHUB-6E40C9?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 </p>
 
 ---

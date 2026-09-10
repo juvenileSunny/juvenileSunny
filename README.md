@@ -155,46 +155,43 @@ Detector processing, wavelength calibration, spectral registration, signal extra
 
 ## 🛠️ Technical Stack
 
+## 🛠️ Technical Stack
+
 <table>
+
 <tr>
 <td><b>Languages</b></td>
 <td>
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,cs,js,bash" />
-
+<img src="https://skillicons.dev/icons?i=python,cpp,c,cs,js,bash"/>
 </td>
 </tr>
 
 <tr>
-<td><b>Backend & Infrastructure</b></td>
+<td><b>Backend & Cloud</b></td>
 <td>
-
-<img src="https://skillicons.dev/icons?i=linux,docker,git,github,mysql,elasticsearch,aws" />
-
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,mysql,elasticsearch,aws"/>
 </td>
 </tr>
 
 <tr>
 <td><b>AI & Data</b></td>
 <td>
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
-
-`Whisper` `Ollama` `Local LLMs` `NumPy` `Pandas` `SciPy`
-
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn"/>
+<br>
+<code>Whisper</code> <code>Ollama</code> <code>NumPy</code>
+<code>Pandas</code> <code>SciPy</code>
 </td>
 </tr>
 
 <tr>
-<td><b>Interactive Systems</b></td>
+<td><b>XR & Apps</b></td>
 <td>
-
-<img src="https://skillicons.dev/icons?i=unity,blender" />
-
-`OpenXR` `Meta Quest` `Multiplayer Systems` `Eye Tracking`
-
+<img src="https://skillicons.dev/icons?i=unity,blender"/>
+<br>
+<code>OpenXR</code> <code>Meta Quest</code> <code>Eye Tracking</code>
 </td>
 </tr>
+
 </table>
 
 ---
